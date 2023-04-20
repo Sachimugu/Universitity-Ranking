@@ -1,7 +1,5 @@
 # HEALTH CARE DASHBOARD
 
-### https://hcdashborad.herokuapp.com/
-
 ![dashboard](assets/db.png)
 
 ## Data Source
