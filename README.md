@@ -20,12 +20,10 @@ The THE World University Rankings provide the definitive list of the world’s b
 
 ## Library Used For Visualisation
 
-https://youtu.be/eRwxOqaP3tI
-
 - PLotly and PlotlyDash
 - Seaborn
 - Matplotlib
-- Other libraries can be found in ![HERE](/dashboard/requirements.txt)
+- Other libraries can be found in ![HERE](dashboard/requirements.txt)
 
 ### Watch the Video https://youtu.be/eRwxOqaP3tI
 
