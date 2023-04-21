@@ -27,7 +27,7 @@ https://youtu.be/eRwxOqaP3tI
 - Matplotlib
 - Other libraries can be found in ![HERE](/dashboard/requirements.txt)
 
-### Watch the Video
+### Watch the Video https://youtu.be/eRwxOqaP3tI
 
 [![Watch the video](assets/db1.png)](https://youtu.be/eRwxOqaP3tI)
 
